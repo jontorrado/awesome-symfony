@@ -221,16 +221,28 @@ Table of contents:
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/symfony/skeleton)
   ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/skeleton)
 
-- [Symfony Skeleton](https://github.com/symfony/webapp-pack) - A recommended pack to install on top of the default Symfony skeleton
+- [Symfony Skeleton](https://github.com/symfony/webapp-pack) - A recommended pack to install on top of the default Symfony skeleton.
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/symfony/webapp-pack)
   ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/webapp-pack)
 
 ## Ecommerce
 
-- [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce.
-- [Bamboo](https://github.com/elcodi/bamboo) - Full-stack E-commerce application based on Symfony and Elcodi components.
-- [Elcodi](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles.
-- [Sylius](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering.
+- [Aimeos](https://github.com/aimeos/aimeos-symfony) - Symfony e-commerce bundle for professional, ultra fast online shops, complex B2B applications and #gigacommerce.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/aimeos/aimeos-symfony)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/aimeos-symfony)
+  aimeos
+
+- [OroCommerce](https://github.com/oroinc/orocommerce) - OroCommerce is an open-source Business to Business Commerce application built with flexibility in mind.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/oroinc/orocommerce)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/oroinc/orocommerce)
+
+- [Shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/shopware/shopware)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/shopware/shopware)
+
+- [Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Sylius/Sylius)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Sylius/Sylius)
 
 ## Forms
 
