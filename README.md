@@ -75,15 +75,15 @@ Table of contents:
 
 - [Symfony, Twig and Sylius certifications](https://certification.symfony.com/)
 
-- [Certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications
+- [Certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications.
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/certificationy/certificationy)
   ![GitHub Repo stars](https://img.shields.io/github/stars/certificationy/certificationy)
 
-- [Certificationy CLI](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
+- [Certificationy CLI](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications.
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/certificationy/certificationy-cli)
   ![GitHub Repo stars](https://img.shields.io/github/stars/certificationy/certificationy-cli)
 
-- [Certificationy Symfony Pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification
+- [Certificationy Symfony Pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification.
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/certificationy/symfony-pack)
   ![GitHub Repo stars](https://img.shields.io/github/stars/certificationy/symfony-pack)
 
@@ -91,7 +91,7 @@ Table of contents:
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MarioBlazek/road-to-symfony-certification)
   ![GitHub Repo stars](https://img.shields.io/github/stars/MarioBlazek/road-to-symfony-certification)
 
-- [Symfony Certification Preparation List](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
+- [Symfony Certification Preparation List](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification.
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ThomasBerends/symfony-certification-preparation-list)
   ![GitHub Repo stars](https://img.shields.io/github/stars/ThomasBerends/symfony-certification-preparation-list)
 
@@ -130,7 +130,7 @@ Table of contents:
   ![GitHub Repo stars](https://img.shields.io/github/stars/pagekit/pagekit)
   ![Static Badge](https://img.shields.io/badge/status-archived-orange)
 
-- [ResidenceCMS](https://github.com/Coderberg/ResidenceCMS) - Open Source Property Management System based on Symfony 6
+- [ResidenceCMS](https://github.com/Coderberg/ResidenceCMS) - Open Source Property Management System based on Symfony 6.
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Coderberg/ResidenceCMS)
   ![GitHub Repo stars](https://img.shields.io/github/stars/Coderberg/ResidenceCMS)
 
@@ -148,53 +148,82 @@ Table of contents:
 
 ## Community
 
-- [Facebook](https://www.facebook.com/SymfonyFramework) - Official Facebook Page
-- [GitHub](https://github.com/symfony/symfony/discussions) - Support, ask Symfony questions
-- [LinkedIn](https://www.linkedin.com/company/symfony-sas/) - Official LinkedIn company
-- [Mastodon](https://mastodon.social/@symfony) - Official Mastodon account
+- [Facebook](https://www.facebook.com/SymfonyFramework) - Official Facebook Page.
+- [GitHub](https://github.com/symfony/symfony/discussions) - Support, ask Symfony questions.
+- [LinkedIn](https://www.linkedin.com/company/symfony-sas/) - Official LinkedIn company.
+- [Mastodon](https://mastodon.social/@symfony) - Official Mastodon account.
 - [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
 - [SensioLabs](https://sensiolabs.com/) - Professional Symfony support by SensioLabs, to get better results, faster.
 - [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
-- [Slack](https://symfony.com/slack) - Slack chat, get real-time support
-- [Twitter/X](https://twitter.com/symfony) - Official Twitter/X account
+- [Slack](https://symfony.com/slack) - Slack chat, get real-time support.
+- [Twitter/X](https://twitter.com/symfony) - Official Twitter/X account.
 - Local:
   - [Community events](http://symfony.com/events/) - Find Symfony events near you.
   - [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
 
 ## Development
 
-- [AccessibleBundle](https://github.com/antares993/AccessibleBundle) - Define your class' getters, setters and constructor using powerful annotations.
-- [ApiExceptionBundle](https://github.com/M6Web/ApiExceptionBundle) - Exception API Bundle.
-- [AvAjaxBundle](https://github.com/AppVentus/AvAjaxBundle) - This bundle offers a simple structure to run ajax actions.
-- [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - This bundle contains just an opinionated extension of Symfony WebTestCase.
-- [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
-- [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - Set of useful Controller annotations.
-- [DunglasActionBundle](https://github.com/dunglas/DunglasActionBundle) - A replacement for the Symfony controller system based on the Action-Domain-Responder pattern. ![GitHub Repo stars](https://img.shields.io/github/stars/MWSimple/AdminCrudBundle)
-- [http-bundle](https://github.com/iltar/http-bundle) - Provides extra HTTP related functionality.
-- [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - Provides advanced debugging tools.
-- [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper.
-- [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
-- [LiipFunctionalTestBundle](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony 2.
-- [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
-- [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony.
+- [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - An opinionated extension of Symfony WebTestCase.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Bee-Lab/BeelabTestBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Bee-Lab/BeelabTestBundle)
+
+- [LiipFunctionalTestBundle](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/liip/LiipFunctionalTestBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/liip/LiipFunctionalTestBundle)
+
 - [PhpMetricsCollectorBundle](https://github.com/phpmetrics/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar.
-- [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
-- [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
-- [redaktilo-bundle](https://github.com/gnugat/redaktilo-bundle) - Integrates Redaktilo into Symfony 2.
-- [SandboxBundle](https://github.com/danrevah/sandbox-bundle) - Overriding controller logic & response in a Sandbox environment.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/phpmetrics/PhpMetricsCollectorBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/phpmetrics/PhpMetricsCollectorBundle)
+
+- [PsyshBundle](https://github.com/theofidry/PsyshBundle) - A command line REPL bundle for Symfony using PsySH.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/theofidry/PsyshBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/theofidry/PsyshBundle)
+
 - [StatsDClientBundle](https://github.com/liuggio/StatsDClientBundle) - Easily monitor your symfony2 production env., with ready-to-use stats.
-- [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags.
-- [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
-- [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
-- [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - Adding routing, container, assetic & twig information in the web profiler.
-- [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/liuggio/StatsDClientBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/liuggio/StatsDClientBundle)
+
+- [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - A bundle to ease development of custom, user-friendly Symfony2 error pages.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/webfactory/exceptions-bundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/webfactory/exceptions-bundle)
 
 ## Distributions
 
-- [API Platform framework](https://github.com/api-platform/api-platform)
-- [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition).
-- [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition).
-- [Symfony Standard Edition](https://github.com/symfony/symfony-standard).
+- [API Platform framework](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/api-platform/api-platform)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/api-platform/api-platform)
+
+- [Kunstmaan CMS Skeleton](https://github.com/Kunstmaan/cms-skeleton) - The KunstmaanCMS skeleton.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Kunstmaan/cms-skeleton)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Kunstmaan/cms-skeleton)
+
+- [Parthenon Skeleton Application](https://github.com/getparthenon/skeleton) - The Symfony SaaS boilerplate Skeleton Application
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/getparthenon/skeleton)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/getparthenon/skeleton)
+
+- [php-sf-flex-webpack-encore-vuejs](https://github.com/Rebolon/php-sf-flex-webpack-encore-vuejs) - A simple app skeleton to try to make every components work together : symfony 5.\* (latest stable at the date, but work with sf 4 and 3.3+ if you pull the right tag), symfony/flex, webpack-encore, vuejs 2.5.x, boostrap 4 sass.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Rebolon/php-sf-flex-webpack-encore-vuejs)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Rebolon/php-sf-flex-webpack-encore-vuejs)
+
+- [Symfony 5 REST API skeleton](https://github.com/demartis/symfony5-rest-api) - API REST skeleton with Symfony 5, following best practices and implementing clean architecture.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/demartis/symfony5-rest-api)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/demartis/symfony5-rest-api)
+
+- [symfony-lts-website-skeleton-starter](https://github.com/GaetanRole/symfony-lts-website-skeleton-starter) - A simple Symfony LTS website-skeleton with some features such as WebpackEncore (Bootstrap Sass/JQuery), Stimulus, TimeContinuum, User Auth, Translations ... and so on.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/GaetanRole/symfony-lts-website-skeleton-starter)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/GaetanRole/symfony-lts-website-skeleton-starter)
+
+- [Symfony Multi-Application Project Skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Organize and Manage Multiple Applications with Kernel Contexts.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yceruto/symfony-ddd-skeleton)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/yceruto/symfony-ddd-skeleton)
+
+- [Symfony Skeleton](https://github.com/symfony/skeleton) - The Symfony skeleton.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/symfony/skeleton)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/skeleton)
+
+- [Symfony Skeleton](https://github.com/symfony/webapp-pack) - A recommended pack to install on top of the default Symfony skeleton
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/symfony/webapp-pack)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/webapp-pack)
 
 ## Ecommerce
 
