@@ -73,11 +73,27 @@ Table of contents:
 
 ## Certification
 
-- [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli). ![GitHub Repo stars](https://img.shields.io/github/stars/certificationy/certificationy-cli)
+- [Symfony, Twig and Sylius certifications](https://certification.symfony.com/)
 
-- [Symfony 3 certification guide](https://github.com/raulconti/symfony-3-certification-guide). ![GitHub Repo stars](https://img.shields.io/github/stars/raulconti/symfony-3-certification-guide)
+- [Certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/certificationy/certificationy)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/certificationy/certificationy)
 
-- [Symfony certification preparation list](https://github.com/ThomasBerends/symfony-certification-preparation-list). ![GitHub Repo stars](https://img.shields.io/github/stars/ThomasBerends/symfony-certification-preparation-list)
+- [Certificationy CLI](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/certificationy/certificationy-cli)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/certificationy/certificationy-cli)
+
+- [Certificationy Symfony Pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/certificationy/symfony-pack)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/certificationy/symfony-pack)
+
+- [Road to Symfony certification](https://github.com/MarioBlazek/road-to-symfony-certification) - Repository dedicated to help you with the Symfony certification exam.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MarioBlazek/road-to-symfony-certification)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/MarioBlazek/road-to-symfony-certification)
+
+- [Symfony Certification Preparation List](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ThomasBerends/symfony-certification-preparation-list)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/ThomasBerends/symfony-certification-preparation-list)
 
 ## CMS
 
