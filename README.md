@@ -246,12 +246,53 @@ Table of contents:
 
 ## Forms
 
-- [CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
-- [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
-- [IvoryCKEditorBundle](https://github.com/egeloen/IvoryCKEditorBundle) - CKEditor integration in Symfony.
-- [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
+- [A2lix Translation Form Bundle](https://github.com/a2lix/TranslationFormBundle) - Ease translations with some dedicated Symfony form types.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/a2lix/TranslationFormBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/a2lix/TranslationFormBundle)
+
+- [CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms for your Symfony project.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/craue/CraueFormFlowBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/craue/CraueFormFlowBundle)
+
+- [EWZRecaptchaBundle](https://github.com/excelwebzone/EWZRecaptchaBundle) - This bundle provides easy reCAPTCHA form field for Symfony.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/excelwebzone/EWZRecaptchaBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/excelwebzone/EWZRecaptchaBundle)
+
+- [Gregwar's CaptchaBundle](https://github.com/Gregwar/CaptchaBundle) - Symfony bundle implementing a "captcha" form type.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Gregwar/CaptchaBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Gregwar/CaptchaBundle)
+
+- [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions for Symfony.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/infinite-networks/InfiniteFormBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/infinite-networks/InfiniteFormBundle)
+
 - [KarserRecaptcha3Bundle](https://github.com/karser/KarserRecaptcha3Bundle) - Integrates Google ReCAPTCHA v3 into Symfony.
-- [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/karser/KarserRecaptcha3Bundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/karser/KarserRecaptcha3Bundle)
+
+- [Laravel Form Bridge](https://github.com/barryvdh/laravel-form-bridge) - Laravel Bridge for the Symfony Form Component.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/barryvdh/laravel-form-bridge)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/barryvdh/laravel-form-bridge)
+
+- [LiformBundle](https://github.com/Limenius/LiformBundle) - Symfony Bundle to render Symfony Forms to JSON Schema.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Limenius/LiformBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Limenius/LiformBundle)
+
+- [PUGXAutocompleterBundle](https://github.com/PUGX/PUGXAutoCompleterBundle) - Add an autocomplete field to your Symfony forms.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PUGX/PUGXAutoCompleterBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/PUGX/PUGXAutoCompleterBundle)
+
+- [Rich Model Forms Bundle](https://github.com/qossmic/rich-model-forms-bundle) - Provides additional data mappers that ease the use of the Symfony Form component with rich models.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/qossmic/rich-model-forms-bundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/qossmic/rich-model-forms-bundle)
+
+- [SonataFormExtensions](https://github.com/sonata-project/form-extensions) - Symfony form extensions
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/sonata-project/form-extensions)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/sonata-project/form-extensions)
+
+- [Symfony Console Form](https://github.com/matthiasnoback/symfony-console-form) - Use Symfony forms for Console command input.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/matthiasnoback/symfony-console-form)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/matthiasnoback/symfony-console-form)
 
 ## Internationalization
 
