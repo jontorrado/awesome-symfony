@@ -296,13 +296,41 @@ Table of contents:
 
 ## Internationalization
 
-- [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony2 translation messages to your client applications.
-- [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
-- [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
-- [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) - Allows to import translation files content into the database and provide a GUI to edit translations.
-- [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
-- [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
-- [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
+- [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony translation messages to your client applications.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/willdurand/BazingaJsTranslationBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/willdurand/BazingaJsTranslationBundle)
+
+- [JMSI18nRoutingBundle](https://github.com/schmittjoh/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/schmittjoh/JMSI18nRoutingBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/schmittjoh/JMSI18nRoutingBundle)
+
+- [JMSTranslationBundle](https://github.com/schmittjoh/JMSTranslationBundle) - Puts the Symfony2 Translation Component on steroids.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/schmittjoh/JMSTranslationBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/schmittjoh/JMSTranslationBundle)
+
+- [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) - This Symfony bundle allow to import translation files content into the database and provide a GUI to edit translations.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/lexik/LexikTranslationBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/lexik/LexikTranslationBundle)
+
+- [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Locale Bundle for symfony.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/lunetics/LocaleBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/lunetics/LocaleBundle)
+
+- [PHP Translations](https://github.com/php-translation/symfony-bundle) - Symfony integration for Translations.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/php-translation/symfony-bundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/php-translation/symfony-bundle)
+
+- [SonataTranslationBundle](https://github.com/sonata-project/SonataTranslationBundle) - SonataTranslationBundle allows you to easily translate your models in SonataAdmin in every locale you need on your frontend.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/sonata-project/SonataTranslationBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/sonata-project/SonataTranslationBundle)
+
+- [Translation Checker Bundle](https://github.com/Incenteev/translation-checker-bundle) - CLI tools to check translations in a Symfony project.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Incenteev/translation-checker-bundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Incenteev/translation-checker-bundle)
+
+- [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Ease translations with some dedicated Symfony form types.
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/a2lix/TranslationFormBundle)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/a2lix/TranslationFormBundle)
 
 ## Miscellaneous
 
